@@ -17,48 +17,22 @@
 ![image](https://user-images.githubusercontent.com/89849696/174468009-d190c7ff-64d1-4c3a-a050-0f479e149cf1.png)
 
 
-
-
-
-
-- JS
-- React
-- Node.js
-- Express.js
-- MongoDB
-- 
-
-
-
-✉ со мной можно связаться ✉
-           ↓ ↓ ↓
-  E-mail: leelife@mail.ru  
-    Telegram: @Renat_KR
+✉ со мной можно связаться ✉  
+           ↓ ↓ ↓  
+  E-mail: leelife@mail.ru    
+    Telegram: @Renat_KR  
            
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!---
+RenatKR/RenatKR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 
 -  Hi, I’m @RenatKR
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-RenatKR/RenatKR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
