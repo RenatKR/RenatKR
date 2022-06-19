@@ -15,12 +15,11 @@
 ![image](https://user-images.githubusercontent.com/89849696/174467887-eab43586-e5e1-4162-8611-4cae6b3e6d2f.png)
 ![image](https://user-images.githubusercontent.com/89849696/174467899-97825918-2018-497a-9349-e3c0a3b519b8.png)
 ![image](https://user-images.githubusercontent.com/89849696/174468009-d190c7ff-64d1-4c3a-a050-0f479e149cf1.png)
-
-
+![image](https://user-images.githubusercontent.com/89849696/174469293-bccef3e5-3d10-4d9a-a918-c7559f350726.png)
 
 
 ✉ со мной можно связаться ✉  
-           ↓ ↓ ↓  
+↓ ↓ ↓  
   E-mail: leelife@mail.ru    
     Telegram: @Renat_KR  
            
