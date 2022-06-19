@@ -8,7 +8,7 @@
 
 Мой стек 🔧
 
-![image](https://user-images.githubusercontent.com/89849696/174467825-5031d2b9-0ff3-49fb-922b-04cf99767a2d.png)
+![image](https://user-images.githubusercontent.com/89849696/174467847-1fcd9f67-d1b7-4002-8040-60324328f868.png)
 
 
 - JS
