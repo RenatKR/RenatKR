@@ -9,6 +9,8 @@
 Мой стек 🔧
 
 ![image](https://user-images.githubusercontent.com/89849696/174467847-1fcd9f67-d1b7-4002-8040-60324328f868.png)
+![image](https://user-images.githubusercontent.com/89849696/174467860-917e61d8-00b5-4815-be81-9182b8fb1440.png)
+
 
 
 - JS
