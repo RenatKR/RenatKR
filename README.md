@@ -7,14 +7,23 @@
 🔎 Ищу работу, чтобы применить то, чему научился и продолжать развиваться в этом направлении дальше! 🔎
 
 Мой стек 🔧
-![image](https://user-images.githubusercontent.com/89849696/174467505-6a3e4a10-290c-45af-9ac0-e7fd0990a3c1.png)
 
+![image](https://user-images.githubusercontent.com/89849696/174467825-5031d2b9-0ff3-49fb-922b-04cf99767a2d.png)
+
+
+- JS
+- React
+- Node.js
+- Express.js
+- MongoDB
+- 
 
 
 
 ✉ со мной можно связаться ✉
            ↓ ↓ ↓
-           
+  E-mail: leelife@mail.ru  
+    Telegram: @Renat_KR
            
 
 
