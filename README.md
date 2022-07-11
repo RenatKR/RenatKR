@@ -20,7 +20,7 @@
 
 ✉ со мной можно связаться ✉  
 ↓ ↓ ↓  
-  E-mail: kurbnagaliev_renat@inbox.ru    
+  E-mail: kurbangaliev_renat@inbox.ru    
     Telegram: @Renat_KR  
            
 
