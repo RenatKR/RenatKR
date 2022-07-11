@@ -20,7 +20,7 @@
 
 ✉ со мной можно связаться ✉  
 ↓ ↓ ↓  
-  E-mail: leelife@mail.ru    
+  E-mail: kurbnagaliev_renat@inbox.ru    
     Telegram: @Renat_KR  
            
 
